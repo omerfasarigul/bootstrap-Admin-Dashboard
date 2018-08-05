@@ -1,4 +1,2 @@
 # bootstrap-Admin-Dashboard
-Free Bootstrap Admin Dashboard Project - NettaWeb
-
-Deneme
+Free Bootstrap Admin Dashboard Project - NettaWeb Freelancer Group
