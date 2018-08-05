@@ -12,7 +12,7 @@ echo "nettaweb deneme";
     <title></title>
   </head>
   <body>
-
+    <p>NETTAWEB</p>
 
     <script type="text/javascript">
       alert("NABER");
